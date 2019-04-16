@@ -1,0 +1,35 @@
+body{
+    font-weight: bold;
+    background-color: white;
+    font-family: sans-serif;
+    background-image: url("kép.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+a:link {
+    text-decoration: none;
+    text-shadow: 5px 5px 5px black;
+}
+
+a:hover {
+    color: red;
+}
+
+h1 {
+   text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-shadow: 5px 5px 5px black;
+    color: ghostwhite;
+}
+
+table {
+    border: 2px solid black;
+    margin: 0px auto;  
+}
+
+
